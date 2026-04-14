@@ -83,5 +83,5 @@ jobs:
     password: ${{ secrets.EMAIL_PASS }}
     subject: "CI Failed"
     body: "Tests failed in CI pipeline"
-    to: your@email.com
+    to: kalyankaricheti@gmail.com
     from: GitHub Actions
